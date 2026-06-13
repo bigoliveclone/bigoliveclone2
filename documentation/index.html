@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LiveHub Mobile H5 Frontend Template Documentation</title>
+    <style>
+      :root {
+        color: #17201d;
+        background: #f7f4ee;
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+      }
+
+      body {
+        margin: 0;
+      }
+
+      main {
+        max-width: 920px;
+        margin: 0 auto;
+        padding: 40px 20px 64px;
+      }
+
+      section {
+        margin-top: 28px;
+        border: 1px solid #e5ded2;
+        border-radius: 12px;
+        background: #fff;
+        padding: 24px;
+      }
+
+      h1,
+      h2 {
+        line-height: 1.2;
+      }
+
+      h1 {
+        font-size: 34px;
+      }
+
+      code,
+      pre {
+        background: #f2eee7;
+        border-radius: 8px;
+      }
+
+      code {
+        padding: 2px 5px;
+      }
+
+      pre {
+        overflow: auto;
+        padding: 14px;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+
+      td,
+      th {
+        border-bottom: 1px solid #eee6dc;
+        padding: 10px;
+        text-align: left;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>LiveHub Mobile H5 Frontend Template Documentation</h1>
+      <p>
+        Thank you for purchasing LiveHub. This is a Vue 3 + Vite mobile H5 frontend template for
+        social live room products.
+      </p>
+
+      <section>
+        <h2>Important Notice</h2>
+        <p>
+          This package is a frontend template only. It does not include a backend, live streaming
+          server, payment gateway, database, admin panel, or production authentication service.
+        </p>
+      </section>
+
+      <section>
+        <h2>Installation</h2>
+        <pre><code>npm install</code></pre>
+        <p>Recommended runtime: Node.js 20 or newer and npm 10 or newer.</p>
+      </section>
+
+      <section>
+        <h2>Run Development Server</h2>
+        <pre><code>npm run dev</code></pre>
+      </section>
+
+      <section>
+        <h2>Build for Production</h2>
+        <pre><code>npm run build</code></pre>
+        <p>The production files will be generated in the <code>dist/</code> directory.</p>
+      </section>
+
+      <section>
+        <h2>Project Structure</h2>
+        <table>
+          <tr>
+            <th>Path</th>
+            <th>Description</th>
+          </tr>
+          <tr>
+            <td><code>src/components/</code></td>
+            <td>Reusable Vue UI components.</td>
+          </tr>
+          <tr>
+            <td><code>src/pages/</code></td>
+            <td>Route-level pages.</td>
+          </tr>
+          <tr>
+            <td><code>src/mock/</code></td>
+            <td>Local mock data for streams, gifts, rankings, wallet records, and chats.</td>
+          </tr>
+          <tr>
+            <td><code>src/router/</code></td>
+            <td>Vue Router configuration.</td>
+          </tr>
+          <tr>
+            <td><code>src/store/</code></td>
+            <td>Pinia state store with localStorage demo persistence.</td>
+          </tr>
+          <tr>
+            <td><code>src/styles/</code></td>
+            <td>Global mobile H5 CSS.</td>
+          </tr>
+        </table>
+      </section>
+
+      <section>
+        <h2>Customize Colors</h2>
+        <p>Edit the CSS variables in <code>src/styles/main.css</code>:</p>
+        <pre><code>:root {
+  --ink: #17201d;
+  --paper: #fffaf1;
+  --accent: #ff5d4d;
+  --accent-2: #18b7a4;
+  --dark: #111614;
+}</code></pre>
+      </section>
+
+      <section>
+        <h2>Edit Mock Data</h2>
+        <p>
+          Open <code>src/mock/liveData.js</code> to change live rooms, gifts, recharge packages,
+          ranking lists, host profiles, and chat messages.
+        </p>
+      </section>
+
+      <section>
+        <h2>Pages Included</h2>
+        <ul>
+          <li>Home / recommended live list</li>
+          <li>Live room</li>
+          <li>Gift panel</li>
+          <li>Wallet / recharge UI</li>
+          <li>Ranking</li>
+          <li>Host profile</li>
+          <li>Login</li>
+          <li>Register</li>
+          <li>User center</li>
+          <li>Settings</li>
+          <li>About</li>
+          <li>404 page</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Customization Services</h2>
+        <p>
+          Paid customization services can be offered separately for backend API integration, live
+          streaming SDK integration, payment gateway integration, admin dashboard development,
+          branding, and multilingual support.
+        </p>
+      </section>
+    </main>
+  </body>
+</html>
