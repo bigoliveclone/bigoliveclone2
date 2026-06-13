@@ -6,7 +6,7 @@ This project is a frontend template only. It does not include a backend, live st
 
 Keywords: bigo live clone script, tiktok-bigo-live-clone-script, tiktok bigo live clone script.
 
-We provide a full set of source code. If you want to purchase the complete version, contact WhatsApp: +44 7999 529473.
+We provide a full set of source code. If you want to purchase the complete version, contact [WhatsApp: +44 7999 529473](https://wa.me/447999529473).
 
 ## Preview Screenshots
 
@@ -136,4 +136,4 @@ Paid customization services can be offered separately, including:
 - Brand styling and page extension
 - Multi-language support
 
-For the complete version and full source code package, contact WhatsApp: +44 7999 529473.
+For the complete version and full source code package, contact [WhatsApp: +44 7999 529473](https://wa.me/447999529473).

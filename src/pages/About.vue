@@ -20,8 +20,10 @@
         script. We provide a full set of source code.
       </p>
       <p>
-        If you want to purchase the complete version, contact WhatsApp:
-        <strong>+44 7999 529473</strong>.
+        If you want to purchase the complete version, contact
+        <a href="https://wa.me/447999529473" target="_blank" rel="noopener">
+          WhatsApp: +44 7999 529473
+        </a>.
       </p>
     </section>
   </main>
