@@ -4,6 +4,10 @@ LiveHub is a Vue 3 + Vite mobile H5 frontend template for social live room produ
 
 This project is a frontend template only. It does not include a backend, live streaming server, payment gateway, database, admin panel, or real authentication service.
 
+Keywords: bigo live clone script, tiktok-bigo-live-clone-script, tiktok bigo live clone script.
+
+We provide a full set of source code. If you want to purchase the complete version, contact WhatsApp: +44 7999 529473.
+
 ## Features
 
 - Vue 3 + Vite single page application
@@ -123,3 +127,5 @@ Paid customization services can be offered separately, including:
 - Admin dashboard development
 - Brand styling and page extension
 - Multi-language support
+
+For the complete version and full source code package, contact WhatsApp: +44 7999 529473.

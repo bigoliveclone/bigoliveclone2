@@ -15,6 +15,14 @@
         data and localStorage only, so buyers can connect their own backend, streaming SDK, payment
         service, and admin system later.
       </p>
+      <p>
+        Keywords: bigo live clone script, tiktok-bigo-live-clone-script, tiktok bigo live clone
+        script. We provide a full set of source code.
+      </p>
+      <p>
+        If you want to purchase the complete version, contact WhatsApp:
+        <strong>+44 7999 529473</strong>.
+      </p>
     </section>
   </main>
 </template>
