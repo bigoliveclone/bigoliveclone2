@@ -8,6 +8,14 @@ Keywords: bigo live clone script, tiktok-bigo-live-clone-script, tiktok bigo liv
 
 We provide a full set of source code. If you want to purchase the complete version, contact WhatsApp: +44 7999 529473.
 
+## Preview Screenshots
+
+![Home Live Preview](preview/home-live.png)
+
+![Home Voice Room Preview](preview/home-voice-room.png)
+
+![PK Confirm Preview](preview/pk-confirm-preview.png)
+
 ## Features
 
 - Vue 3 + Vite single page application
